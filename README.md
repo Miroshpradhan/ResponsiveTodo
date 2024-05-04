@@ -57,11 +57,11 @@ ScreenShots for Different sizes Desktop,Tablets and Mobile:
 
 ![Screenshot 4](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot4.png)
 
-![Screenshot 5](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screentshots/screenshot5.png)
+![Screenshot 5](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screentshot5.png)
 
-![Screenshot 6](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screentshots/screenshot6.png)
+![Screenshot 6](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screentshot6.png)
 
-![Screenshot 7](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screentshots/screenshot7.png)
+![Screenshot 7](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screentshot7.png)
 
 
   
