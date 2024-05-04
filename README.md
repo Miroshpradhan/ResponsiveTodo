@@ -31,7 +31,8 @@ An responsive todo application built with React, Node.js, Express.js, and MongoD
       cd REsponsiveTodo
       cd my-todo-app
     npm install
-  
+  ```
+
       ```bash
        cd ..
        cd todo-backend
@@ -48,18 +49,19 @@ Demo:
    https://respotodos.netlify.app/
 
 ScreenShots for Different sizes Desktop,Tablets and Mobile:
-![Screenshot 1](my-todo-app/screenshots/screenshot1.png)
+![Screenshot 1](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot1.png)
 
-![Screenshot 2](my-todo-app/screenshots/screenshot2.png)
+![Screenshot 2](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/masterscreenshots/screenshot2.png)
 
-![Screenshot 3](my-todo-app/screenshots/screenshot3.png)
+![Screenshot 3](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot3.png)
 
-![Screenshot 4](my-todo-app/screenshots/screenshot4.png)
+![Screenshot 4](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot4.png)
 
-![Screenshot 5](my-todo-app/screenshots/screenshot5.png)
+![Screenshot 5](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot5.png)
 
-![Screenshot 6](my-todo-app/screenshots/screenshot6.png)
+![Screenshot 6](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot6.png)
 
-![Screenshot 7](my-todo-app/screenshots/screenshot7.png)
+![Screenshot 7](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot7.png)
+
 
   
