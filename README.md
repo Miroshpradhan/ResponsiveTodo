@@ -22,7 +22,7 @@ An responsive todo application built with React, Node.js, Express.js, and MongoD
 
    ```bash
    git clone https://github.com/your-username/responsive-todo-app.git
-
+   ```
 2. Install Dependencies
 
    To install the necessary dependencies, navigate to the project directory and run the following command:
@@ -31,8 +31,8 @@ An responsive todo application built with React, Node.js, Express.js, and MongoD
       cd REsponsiveTodo
       cd my-todo-app
     npm install
-  ```
-
+    ```
+   
       ```bash
        cd ..
        cd todo-backend
@@ -51,17 +51,17 @@ Demo:
 ScreenShots for Different sizes Desktop,Tablets and Mobile:
 ![Screenshot 1](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot1.png)
 
-![Screenshot 2](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/masterscreenshots/screenshot2.png)
+![Screenshot 2](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot2.png)
 
 ![Screenshot 3](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot3.png)
 
 ![Screenshot 4](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot4.png)
 
-![Screenshot 5](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot5.png)
+![Screenshot 5](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screentshots/screenshot5.png)
 
-![Screenshot 6](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot6.png)
+![Screenshot 6](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screentshots/screenshot6.png)
 
-![Screenshot 7](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot7.png)
+![Screenshot 7](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screentshots/screenshot7.png)
 
 
   
