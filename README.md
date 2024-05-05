@@ -45,10 +45,10 @@ An responsive todo application built with React, Node.js, Express.js, and MongoD
       ```   
 4.Open http://localhost:3000 in your browser to use the app.
 
-Demo:
+# Demo:
    https://respotodos.netlify.app/
 
-ScreenShots for Different sizes Desktop,Tablets and Mobile:
+# ScreenShots for Different sizes Desktop,Tablets and Mobile:
 ![Screenshot 1](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot1.png)
 
 ![Screenshot 2](https://raw.githubusercontent.com/Miroshpradhan/ResponsiveTodo/master/screenshots/screenshot2.png)
